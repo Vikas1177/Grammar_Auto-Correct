@@ -12,9 +12,9 @@ https://colab.research.google.com/drive/1FcnuTV-FtC4lweadVPSZxk73HT6_X3p4
 
 ## Contributors
 - [Shreeyut Maheswari](https://github.com/search?q=shreeyut1905&type=users)
-- [Srikanth Chebolu] 
+- [Srikanth Chebolu](https://github.com/search?q=Srikanth1234567808&type=users) 
 - [Piyush Tiwari]
-- [Vikash Kumar Singh]
+- [Vikash Kumar Singh](https://github.com/search?q=Vikas1177&type=users)
 
 ## Mentor
 -
