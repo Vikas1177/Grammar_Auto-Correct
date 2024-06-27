@@ -7,3 +7,5 @@ Error Detection: Identifies various types of grammatical errors such as punctuat
 Correction Suggestions: Provides suggestions for correcting identified errors based on context and grammar rules.
 User Interface: Includes a simple command-line interface (CLI) for inputting text and receiving corrected output.
 Performance: Achieves high accuracy in error detection and correction through fine-tuning on large-scale text corpora.
+
+#
