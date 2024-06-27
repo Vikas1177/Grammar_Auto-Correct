@@ -11,7 +11,7 @@ Link to final code is provided below:
 https://colab.research.google.com/drive/1FcnuTV-FtC4lweadVPSZxk73HT6_X3p4
 
 ## Contributors
-- [Shreyut Maheswari](
+- [Shreeyut Maheswari](https://github.com/search?q=shreeyut1905&type=users)
 - [Srikanth Chebolu] 
 - [Piyush Tiwari]
 - [Vikash Kumar Singh]
