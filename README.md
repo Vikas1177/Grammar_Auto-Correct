@@ -12,7 +12,7 @@ Link to final code is provided below:
 
 https://colab.research.google.com/drive/1FcnuTV-FtC4lweadVPSZxk73HT6_X3p4
 
-#Contributors
+# Contributors
 - Shreyut Maheswari
 - Srikanth Chebolu 
 - Piyush Tiwari
